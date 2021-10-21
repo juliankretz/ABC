@@ -1,28 +1,28 @@
 <?ml version="1.0"?>
 <menus>
     <menu1>
-        <prix>30€</prix>
+        <prix></prix>
         <contenu>
-            <entrée>3</entrée> 
-            <plat>3</plat>
-            <fromage>1</fromage>
-            <dessert>3</dessert> 
+            <entree></entree>
+            <plat></plat>
+            <fromage></fromage>
+            <dessert></dessert> 
         </contenu>
     </menu1>
     <menu2>
-        <prix>20€</prix>
+        <prix></prix>
         <contenu>
-            <entrée>2</entrée>
-            <plat>2</plat>
-            <dessert>2</dessert>
+            <entree></entree>
+            <plat></plat>
+            <dessert></dessert>
         </contenu>
     </menu2>
     <menu3>
-        <prix>15€</prix>
+        <prix></prix>
         <contenu>
-            <entrée>1</entrée>
-            <plat>1</plat>
-            <dessert>1</dessert>
+            <entree></entree>
+            <plat></plat>
+            <dessert></dessert>
         </contenu>
     </menu3>
 </menus>

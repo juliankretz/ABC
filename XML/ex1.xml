@@ -5,11 +5,13 @@
     </auteur>
     <auteur>   
         <nom></nom> <prénom></prénom>   
-    </auteur
+    </auteur>
     <section>
-        <chapitre></chapitre> <chapitre></chapitre>   
+        <chapitre></chapitre> 
+        <chapitre></chapitre>   
     </section>
     <section>
-        <chapitre></chapitre> <chapitre></chapitre>    
+        <chapitre></chapitre> 
+        <chapitre></chapitre>    
     </section>
 </livre>    
