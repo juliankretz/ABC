@@ -1,0 +1,20 @@
+<?ml version="1.0"?>
+<livre>
+    
+    <auteur>   
+        <nom></nom> <prénom></prénom>   
+    </auteur>
+
+    <auteur>   
+        <nom></nom> <prénom></prénom>   
+    </auteur>
+
+    <section>
+        <chapitre></chapitre> <chapitre></chapitre>   
+    </section>
+
+    <section>
+        <chapitre></chapitre> <chapitre></chapitre>    
+    </section>
+
+</livre>    
