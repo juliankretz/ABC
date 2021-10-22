@@ -3,7 +3,7 @@
     <menu1>
         <prix></prix>
         <contenu>
-            <entree></entree>
+            <entree></entree>=3
             <plat></plat>
             <fromage></fromage>
             <dessert></dessert> 
