@@ -1,10 +1,10 @@
 <?ml version="1.0"?>
 <livre>
     <auteur>   
-        <nom></nom> <prénom></prénom>   
+        <nom></nom> <prenom></prenom>   
     </auteur>
     <auteur>   
-        <nom></nom> <prénom></prénom>   
+        <nom></nom> <prenom></prenom>   
     </auteur>
     <section>
         <chapitre></chapitre> 
@@ -14,4 +14,4 @@
         <chapitre></chapitre> 
         <chapitre></chapitre>    
     </section>
-</livre>    
+</livre>
