@@ -7,11 +7,9 @@
         <nom></nom> <prenom></prenom>   
     </auteur>
     <section>
-        <chapitre></chapitre> 
-        <chapitre></chapitre>   
+        <chapitre></chapitre> <chapitre></chapitre>   
     </section>
     <section>
-        <chapitre></chapitre> 
-        <chapitre></chapitre>    
+        <chapitre></chapitre> <chapitre></chapitre>    
     </section>
 </livre>
