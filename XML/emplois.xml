@@ -1,0 +1,14 @@
+<?ml version="1.0"?>
+<offre_emploi>
+    <intitule></intitule>
+    <ville ></ville>
+    <description>
+        <tâches></tâches>
+        <avantages></avantages>
+        <profil_recherche></profil_recherche>
+    </description>
+    <competences_requises></competences_requises>
+    <date_demarrage></date_demarrage>
+    <salaire_annuel></salaire_annuel>
+    <adresse_mail></adresse_mail>
+</offre_emploi>
