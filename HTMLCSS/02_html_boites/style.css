@@ -1,0 +1,10 @@
+
+
+h1 {
+    display: inline-block;
+    height: 200px;
+    width: 60%;
+    color: #FF0000; 
+    background-color: yellow;
+    border: spx solid currentColor 
+}

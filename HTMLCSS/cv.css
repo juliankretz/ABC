@@ -1,0 +1,26 @@
+/*
+#92db84 = vert
+#34a0a4 = turquoise
+#014d64 = bleu
+*/
+
+body {
+    margin:0;
+    padding: 0;
+    background-color: #34a0a4;
+    color: #ffffff;
+}
+
+h1 {
+    background-color:#047192;
+    margin: 0;
+    padding: 10px;
+}
+
+p {
+    padding: 5px;
+}
+
+h3 {
+    color: #014d64;
+}
